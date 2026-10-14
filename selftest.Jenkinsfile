@@ -221,4 +221,3 @@ sonar.javascript.lcov.reportPaths=frontend/coverage/lcov.info
         }
     }
 }
-
