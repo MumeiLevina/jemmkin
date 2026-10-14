@@ -1,0 +1,6 @@
+# File chạy trong container Linux phải giữ LF khi checkout trên Windows
+*.yml         text eol=lf
+*.Jenkinsfile text eol=lf
+Jenkinsfile   text eol=lf
+Dockerfile    text eol=lf
+
