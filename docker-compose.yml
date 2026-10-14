@@ -108,4 +108,3 @@ volumes:
 networks:
   cicd-portal:
     name: cicd-portal
-
